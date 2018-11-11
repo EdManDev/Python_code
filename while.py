@@ -1,10 +1,10 @@
-n = 5
+a = 11
 sum = 0
-i = 2
+b = 2
 
-while i <= n:
-    sum = sum + i
-    i = i+1
+while b <= a:
+    sum = sum + b
+    b = b+1
 
 
 
