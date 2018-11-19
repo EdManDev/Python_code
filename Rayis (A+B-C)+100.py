@@ -1,4 +1,4 @@
-num = 4
+A = 4
 
-num_sqrt = num ** 0.5
-print('The square root of %3f is %3f '%(num ,num_sqrt))
+A_sqrt = A ** 0.5
+print('The square root of %3f is %3f '%(A ,A_sqrt))
