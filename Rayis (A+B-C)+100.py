@@ -1,4 +1,10 @@
-A = 4
+import cmath
 
-A_sqrt = A ** 0.5
-print('The square root of %3f is %3f '%(A ,A_sqrt))
+A=4
+B=2
+C=1
+
+sqrt = cmath.sqrt(A+B-C)+100
+
+print('The square root of {0} is: {1:0.3f}'
+      .format(A ,sqrt.real,sqrt.imag))
