@@ -1,4 +1,4 @@
-print('de terminar el importe a pagar por el concepto de estaciones')
+print('de terminar el importe a pagar por el concepto de estaciones...')
 
 
 valor_pagar = str(input('ingrese el valor a pagar:  '))
