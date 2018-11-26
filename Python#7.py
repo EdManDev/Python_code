@@ -4,9 +4,9 @@ valor=float(input('\ningrese un valor:  '))
 
 if (valor >= 70.5):
     {
-        print('APROBADO...')
+        print('APROBADO... ')
     }
 else:
     {
-        print('DESAPROBADO...')
+        print('DESAPROBADO... ')
     }
