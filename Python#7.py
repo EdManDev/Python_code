@@ -8,5 +8,5 @@ if (valor >= 70.5):
     }
 else:
     {
-        print('DESAPROBADO')
+        print('DESAPROBADO...')
     }
