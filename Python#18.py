@@ -1,2 +1,9 @@
-print('este programa imprima cantidad los niños')
-18
+print("programa de calendario de mese")
+
+import calendar
+
+y = int(input("Input the year : "))
+m = int(input("Input the month : "))
+
+print(calendar.month(y, m))
+
