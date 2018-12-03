@@ -11,7 +11,7 @@ def generateNumber(num):
 
     return mylist
 
-x = generateNumber(4)
+x = generateNumber(100)
 
 print(x)
 

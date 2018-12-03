@@ -1,3 +1,6 @@
-print('este programa imprima cantidad los niños')
+print('calcuo del interes locales')
 
-9
+tasa_interes=int(input('ingrese la tasa de interes: '))
+capital=int(input('ingrese el capital: '))
+
+

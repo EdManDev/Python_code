@@ -1,3 +1,4 @@
-print('este programa imprima cantidad los niños')
+print('Almacenar 10 numero y  ordenar mayores a menor')
 
-29
+
+numero = [10,9,8,7,6,5,4,3,2,1,0]
