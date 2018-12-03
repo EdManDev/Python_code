@@ -1,6 +1,11 @@
 print('calcuo del interes locales')
 
 tasa_interes=int(input('ingrese la tasa de interes: '))
-capital=int(input('ingrese el capital: '))
 
+if tasa_interes < 500:
+    print('la tasa es de 2%')
+elif tasa_interes >= 500:
+    print('la tasa es 5.5%')
+else:
+    print('la tasa es 9%')
 
