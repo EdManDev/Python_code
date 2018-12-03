@@ -1,3 +1,2 @@
-print('este programa imprima cantidad los niños')
+print('lista vacia que me puedo positionar')
 
-20
