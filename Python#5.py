@@ -1,7 +1,12 @@
-print('este programa imprima cantidad los niños')
-h1=str(input('Entrar el primer ano: '))
-h2=str(input('Entrar el segundo ano: '))
-if h1 > h2:
-    print('el ano de primer es: ',h1,'que es mas grande que',h2)
-else:
-    print('el ano de segundo es: ',h2,'que es mas grande que',h1)
+herencia = int(input("Ingresar el monto del herencia: "))
+hijos = int(input("igresar el numero de hijos"))
+repart = 0
+
+if hijos < 4:
+  repart = herencia / hijos
+  print("cada persona recibira " + str(repart))
+elif hijos > 4:
+  repart = herencia / 2
+  print("el hijo mayor recibe "+ str(repart))
+  print("los demas hijos reciben cada uno/a", repart / (hijos - 1))
+
