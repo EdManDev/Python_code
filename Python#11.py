@@ -1,4 +1,4 @@
-print('este programa va a leer 3 numero entero')
+print("Lea 3 numeros enteros y determine el numero intermedio")
 
-numero
-
+list = [1, 2, 3]
+print(len(list))
