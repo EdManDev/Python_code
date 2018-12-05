@@ -1,5 +1,5 @@
 horas =  int(input("Ingrese la cantidad de horas: "))
-minutos = 30 #int(input("Ingrese la cantidad de minutos: "))
+minutos = 30 # int(input("Ingrese la cantidad de minutos: "))
 
 fracH = minutos / 60
 tiempo =  fracH + horas
