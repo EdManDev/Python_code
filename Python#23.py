@@ -1,3 +1,5 @@
 print('este programa imprima cantidad los niños')
 
-23
+mensualidad = (6,12,18,24)
+
+mensualidades = max(mensualidad)
