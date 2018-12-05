@@ -1,4 +1,4 @@
-print('de terminar el importe a pagar por el concepto de estaciones...')
+print('en un estasamiento se cobra 2.5 por hora')
 
 
 horas =  int(input('Ingrese la cantidad de horas: '))
