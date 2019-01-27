@@ -5,4 +5,5 @@ ars=(ht*ph)*0.02
 afp=(ht*ph)*0.0304
 sb=ht*ph
 sn=sb-ars-afp
+sn
 
