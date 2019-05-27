@@ -1,4 +1,4 @@
-  print("\n\n este programa va imprimir letra Vocale, semivocales ,o consonante")
+  print("Este programa va imprimir letra Vocale, semivocales ,o consonante")
 
   a = input("Enter a aaracter: ")
 
