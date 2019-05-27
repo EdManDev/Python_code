@@ -1,6 +1,6 @@
 print("\n\n este programa va imprimir letra Vocale, semivocales,consonante")
-while True:
 
+while True:
   a = input("Enter a aaracter: ")
 
   if a == "a" or a == "e" or a == "i" or a == "o" or a == "u":
