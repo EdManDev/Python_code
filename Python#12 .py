@@ -1,4 +1,5 @@
-  print("Este programa va imprimir letra Vocale, semivocales ,o consonante")
+print("\n\n este programa va imprimir letra Vocale, semivocales,consonante")
+while True:
 
   a = input("Enter a aaracter: ")
 
@@ -7,4 +8,4 @@
   elif a == "y":
       print(a, "es un semivocales")
   else:
-      print(a, "consonante")
+      print(a, "es un consonante")
