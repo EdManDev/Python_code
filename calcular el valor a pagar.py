@@ -10,3 +10,4 @@ digite de descuento
 >>> f=(ca*pa)-d
 >>> f
 7.9
+l
