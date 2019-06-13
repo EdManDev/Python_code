@@ -1,3 +1,15 @@
+# while True:
+#     V=int(input("\nintroduzca el valor: "))
+#     if(V <= 10):
+#         print("El resultado es %.i: "%(V))
+#     elif(V <= 100):
+#         print("El resultado es: %.2f"%(V))
+#     elif(V >= 100):
+#         print("El resultado es: %.3f"%(V))
+
+# while True:
+
+
 while True:
   A= int(input("\nDIGITE EL NUMERO DEL MESES: \n\n"))
   if (A == 1):
@@ -26,3 +38,6 @@ while True:
       print("Diciembre tiene 31 dias")
   else:
       print("Error solo 12 meses")
+
+      
+      
