@@ -1,11 +1,11 @@
 # while True:
-#     V=int(input("\nintroduzca el valor: "))
-#     if(V <= 10):
-#         print("El resultado es %.i: "%(V))
-#     elif(V <= 100):
-#         print("El resultado es: %.2f"%(V))
-#     elif(V >= 100):
-#         print("El resultado es: %.3f"%(V))
+#   V=int(input("\nintroduzca el valor: "))
+#   if(V <= 10):
+#       print("El resultado es: %.i "%(V))
+#   elif(V <= 100):
+#       print("El resultado es: %.2f "%(V))
+#   elif(V >= 100):
+#       print("El resultado es: %.3f "%(V))
 
 while True:
   A= int(input("\nDIGITE EL NUMERO DEL MESES: \n\n"))
