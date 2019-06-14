@@ -7,9 +7,6 @@
 #     elif(V >= 100):
 #         print("El resultado es: %.3f"%(V))
 
-# while True:
-
-
 while True:
   A= int(input("\nDIGITE EL NUMERO DEL MESES: \n\n"))
   if (A == 1):
