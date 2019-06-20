@@ -9,7 +9,7 @@ while avg < numero:
     avg = (sum(list)) / len(list)
     print("el valor de", avg, "esta corecto")
     break
-elif
+#elif
 
 
 #######  INACABADO  ############
