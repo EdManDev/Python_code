@@ -1,0 +1,11 @@
+(#1) en un universo de N elementos imprinmir los elementos multiples de tres
+
+(#2) presentar de la manera siguiente la tabla de multiplicar comprendida entre el 1 y 10
+
+nota:
+ cyclos logicos : son ciclos que se compliran de forma repetitiva y su salida la dictaminara una fuuncion break
+
+ejemplo:
+    while True:
+
+
