@@ -16,33 +16,6 @@
 #   print( "fin de proceso")
 
 
-# print("digite la tabla de multiplication")
-
-# A= int(input("\n INGRESE UN NUMERO: \n\n"))
-# A= int(input("\n INGRESE UN NUMERO: \n\n"))
-
-# if (A * 1):
-#     print("4 x 1 es igual a" ,A)
-# elif(A * 2):
-#     print("4 x 2 es igual a" ,A)
-# elif(A * 3):
-#     print("4 x 3 es igual a" ,A)
-# elif(A * 4):
-#     print("4 x 4 es igual a" ,A)
-# elif(A * 5):
-#     print("4 x 5 es igual a" ,A)
-# elif(A * 6):
-#     print("4 x 6 es igual a" ,A)
-# elif(A * 7):
-#     print("4 x 7 es igual a" ,A)
-# elif(A * 8):
-#     print("4 x 8 es igual a" ,A)
-# elif(A * 9):
-#     print("4 x 9 es igual a" ,A)
-# elif(A * 10):
-#     print("4 x 10 es igual a" ,A)
-# else:
-#     print("N/A")
 
 
 
