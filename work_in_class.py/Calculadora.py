@@ -1,9 +1,8 @@
 # print("digite la tabla de multiplication")
 print("\033c")
 
-
 signos = (
-    input("\nEngrese Un Signo De Operador como: +  -  *  / :  \n\n"))
+    input("\nEngrese Un Signo De Operador como: +  -  *  / :\t"))
 
 while True:
     print("\n\nEngrese Dos Numero\n")
