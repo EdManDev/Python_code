@@ -8,7 +8,7 @@ while True:
     elif pais== "china":
             print(pais,"ha sido selecionado y su indice esta 12 1 403 500 365 habitante mas poblado del mundo")
     else:
-        print("ningun pais ha sido seleccionado")
+        print("ningun pais ha sido seleccionado.")
         print("Deseas de regresar de nuevo SI(Y) o NO(N)!")
         
         pregunta=str(input())
