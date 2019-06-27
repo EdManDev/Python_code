@@ -1,12 +1,13 @@
 # print("digite la tabla de multiplication")
 print("\033c")
 
+
 signos = (
-    input("\nEngrese Un Signo De Operador como: +  -  *  / :\t"))
+    input("\nEngrese Un Signo De Operador como: +  -  *  / :  \n\n"))
 
 while True:
     print("\n\nEngrese Dos Numero\n")
-    num1 = int(input("ingrese un numero: "))
+    num1 = int(input("INGRESE UN NUMERO: "))
     num2 = int(input("ingrese otro : "))
 
     if (signos == "+"):
@@ -19,6 +20,10 @@ while True:
         print("El Resulado es igual a:", num1/num2)
     else:
         print("N/A")
+
+
+
+        
 
 
 # if (A * 1):
