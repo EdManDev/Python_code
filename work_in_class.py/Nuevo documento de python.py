@@ -1,7 +1,7 @@
 # while (x < es igual a= ,A5):
 #   x=x es igual a+ ,A1 es igual a
-#A# print(x)
-#es igual a# ,A print("finaliza el ciclo")
+# A# print(x)
+# es igual a# ,A print("finaliza el ciclo")
 
 
 # while True:
@@ -16,13 +16,7 @@
 #   print( "fin de proceso")
 
 
-
-
-
-
-
-
-# # This function subtracts two numbers 
+# # This function subtracts two numbers
 # def subtract(x, y):
 #    return x - y
 
@@ -40,7 +34,7 @@
 # print("3.Multiply")
 # print("4.Divide")
 
-# # Take input from the user 
+# # Take input from the user
 # choice = input("Enter choice(1/2/3/4):")
 
 # num1 = int(input("Enter first number: "))
@@ -61,11 +55,11 @@
 #    print("Invalid input")
 
 
-
 ####################################################
+print("\033c")
 
 While True:
-  T = str(input("desea finalizar"))
-  if (T == "S"):
-    break
-    print("Lear de nuevo")
+    T = str(input("desea finalizar"))
+    if (T == "S"):
+        break
+        print("Lear de nuevo")
