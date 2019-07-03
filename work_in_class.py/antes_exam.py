@@ -1,3 +1,4 @@
+print("\033c")
 while True:
     pais = str(input("ingrese un pais: \n"))
 
@@ -8,11 +9,11 @@ while True:
     elif pais == "china":
         print(pais, "ha sido selecionado y su indice esta 12 1 403 500 365 habitante mas poblado del mundo")
     else:
-        print("ningun pais ha sido seleccionado")
-        print("Deseas de regresar de nuevo SI(Y) o NO(N)!")
+        print("\nningun pais ha sido seleccionado!")
+        print("Deseas de regresar de nuevo (si) o (no)!")
 
         pregunta = str(input())
-        if pregunta == "Y":
+        if pregunta == "si":
             pais = pais
         else:
             break
