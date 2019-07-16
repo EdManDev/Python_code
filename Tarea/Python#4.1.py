@@ -1,11 +1,12 @@
+print("\033c")
+
 print('en un estasamiento se cobra 2.5 por hora')
 
+horas = int(input('Ingrese la cantidad de horas: '))
+minutos = 30  # int(input('Ingrese la cantidad de minutos: '))
 
-horas =  int(input('Ingrese la cantidad de horas: '))
-minutos = 30 # int(input('Ingrese la cantidad de minutos: '))
-
-fracH = minutos / 60
-tiempo =  fracH + horas
+fract = minutos / 60
+tiempo = fract + horas
 pago = tiempo * 2.5
 
-print('El importe a pagar es', pago, 'pesos')
+print('Usted ingreses:', horas, ', El importe a pagar es', pago, 'pesos')
