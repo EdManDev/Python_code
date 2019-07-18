@@ -7,3 +7,28 @@ nota:
 
 ejemplo:
     while True:
+
+
+
+
+siclo for es una estructura de control que repite un bloque de instrucciones
+indicando un valor predeterminado de veces.
+el boque de instruciones que repite el ciclo se llama cuerpo del ciclo y cada repeticion se llama iteracion.
+a diferencia del ciclo while este no necesita definir una variable de control pues dicha variable  viene definida por una  funcion 
+
+
+
+los ciclos for se utiliza basicamente de dos maneras 
+1) de forma numerica en la cual interviene estos tres tipos ; y ademas se utiliza como una cadena de caracteres
+
+exo:
+utilizando el ciclo for imprimir el cubo de los elementos pares de un rango entre 25 y 93
+
+eso :
+deletrea las letras que componen un nombre
+y al final imprimir cuantas letras tiene ese nombre
+
+invertigar:
+estructurar de datos python
+-Listas
+-Tuplas
