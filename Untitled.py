@@ -20,20 +20,17 @@
 #    print("is Odd",(num))
 
 
-
 # for var2 in range (25,93):
 #   var=var2**3
 #   print(int(var))
 
 
-
 # a = int(input())
-# b = 
+# b =
 
 
 # print(a**3)
 # print(b**3)
-
 
 
 # numbers = [santiago]
@@ -52,15 +49,15 @@
 
 # while i <= n:
 #     sum = sum + i
-#     i = i+1   
+#     i = i+1
 
 # print("The sum is", sum)
 
-count = 0 
-current = "" 
+count = 0
+current = ""
 for i in "Hello World":
-	count += 1
-	current += i
-	if current == "Hello World!":
-		print(count) 
+    count += 1
+    current += i
+    if current == "Hello World!":
+        print(count)
 
