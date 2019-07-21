@@ -64,4 +64,3 @@ for i in "Hello World":
 	if current == "Hello World!":
 		print(count) 
 
-print("hello")
