@@ -1,11 +1,16 @@
 print("\033c")
-print("A+B-C Raice 100 * 100")
-a = 100
+print("la  ecuacion de A+B-C Raice 100 * 100")
+a = 2
 b = 3
-c = 0
+c = 5
 
-num = 16
+x = 16
+y = x * x
 
-num_sqrt = num ** 0.5
-print("la Raiz de : ", num, " es: ", int(num_sqrt))
+sqrt = y ** 0.5
 
+print("Recuerda Pue la Raiz de : ", x, " es: ", int(sqrt))
+
+z = a + b - c + sqrt
+
+print("Eso es el Resultado de la Equacion: ", z)
