@@ -63,3 +63,5 @@ for i in "Hello World":
 	current += i
 	if current == "Hello World!":
 		print(count) 
+
+print("hello")
