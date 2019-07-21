@@ -4,7 +4,7 @@ counter = 0
 
 while counter < 3:
     counter = counter + 1
-    print("Inside loop")
+    print("Inside loop.")
 
 else:
-    print("Inside else")
+    print("Inside else.")
