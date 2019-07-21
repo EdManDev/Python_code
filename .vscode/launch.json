@@ -10,13 +10,13 @@
       "request": "launch",
       "program": "${file}",
       "console": "externalTerminal"
+    },
+    {
+      "name": "Python: Current File (integrated Terminal)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
     }
-    // {
-    //   "name": "Python: Current File (integrated Terminal)",
-    //   "type": "python",
-    //   "request": "launch",
-    //   "program": "${file}",
-    //   "console": "integratedTerminal"
-    // }
   ]
 }
