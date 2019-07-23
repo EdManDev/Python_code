@@ -1,4 +1,4 @@
-print('\x1bc')
+print("\x1bc")
 
 
 name = str(input("\nENTER YOUR NAME: "))
@@ -8,16 +8,13 @@ while True:
     if response == "yes":
         print("-ok you should take a break", name)
     elif response == "what":
-        print("-Are you busy i said", name, "? ")
-        response = str(input())
+        print("-i said if you Are busy?", name)
+        response = response
     elif response == "yes":
-        print("-ok you should take a break", name)
-    else:
-    print("ok good bye", name)
+        print("-ok you should take a break\n", name)
+        name = name
+        if response == "ok":
+            continue
     else:
         print("ok good bye", name)
-    name = str(input("\nWELCOME AGAIN ENTER YOUR NAME: "))
-
-
-while expression:
-    pass
+        break
