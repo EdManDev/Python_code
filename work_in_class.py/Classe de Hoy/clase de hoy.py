@@ -24,3 +24,4 @@ print(t2[1:2])
 
 
 
+Wednesday, July 24 2019
