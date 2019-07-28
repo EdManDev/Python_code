@@ -38,7 +38,6 @@ estructurar de datos python
 
 Tupla : es una estructura de datos que almacena valores de forma secuencial donde estos valores estan ubicados dentro de parenthesis y su principal caracteristica es que son imutables por lo cual los valores contenidos en una tupla no pueden ser  modificados . los elementos ubicados en una tupla las posicionel que le representan debe ser fisicas o sea que comienzan el 0 (zero)
 
-
 EXO:
 en una tupla numerica entera sumar 5 a los valoress impares que esten en ella 
 
