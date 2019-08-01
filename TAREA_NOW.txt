@@ -42,4 +42,4 @@ EXO:
 en una tupla numerica entera sumar 5 a los valoress impares que esten en ella 
 
 EXO :
- comparar 2 Tuplas e indicar en que posicion se encuentra el elemento mayor entre de las 2
+comparar 2 Tuplas e indicar en que posicion se encuentra el elemento mayor entre de las 2
