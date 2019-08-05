@@ -7,6 +7,11 @@ print('\x1bc')
 
 # exo 1
 
+
+
+
+
+
 t1=(1,2,3,4,5)
 i=0
 while i<5:
@@ -15,6 +20,14 @@ while i<5:
         print(b)
     i=i+1
 
+
+
+
+
+
+
+
+#im edit it in vim
 
 # # exo 2
 # t1=(8,4,6,7)
