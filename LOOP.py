@@ -1,4 +1,4 @@
-print('\x1bc')
+print("\x1bc")
 
 # for variable in range(1, 10):
 # print'this is the section #',variable
@@ -11,4 +11,5 @@ sum = 0
 for val in numbers:
     sum = sum + val
 
-print('The sum is', sum, 'veses')
+print("The sum is", sum)
+

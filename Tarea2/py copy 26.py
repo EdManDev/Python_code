@@ -1,4 +1,5 @@
 print("\033c")
+print("almacenar 10 numeros en una lista")
 
-lista = [i for i in range(1, 101) if i % 1 == 0]
+lista = [i for i in range(1, 101)]
 print(lista)

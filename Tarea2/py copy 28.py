@@ -1,16 +1,12 @@
 print("\033c")
-tupla = (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
+tupla = (1, 2, 3, 4, 5)
 
 numbers = int(input("ingrese un numero por teclado: "))
 
 counter = 0
 
 while counter < numbers:
-
-    counter = counter + 1
-    # resultado = counter + 0
-    print("1-) el numero ", numbers, "se repite", counter, "veses")
-    # print("2-) The resultado is", resultado, "veses")
-
+    counter = numbers + 0
+    print("el numero se repite", counter, "veses.")
 else:
-    print("Gracias bye")
+    print("\nGracias bye")
