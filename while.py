@@ -1,3 +1,5 @@
+print("\x1bc")
+
 a = 11
 sum = 0
 b = 2
