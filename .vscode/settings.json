@@ -1,7 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\IBM\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
-    "python.linting.enabled": false,
-    "python.formatting.provider": "black",
-    "terminal.integrated.fontFamily": "fontawesome, hack",
-    "terminal.integrated.fontSize": 11
+	"python.linting.enabled": false,
+	"python.formatting.provider": "black",
+	"terminal.integrated.fontFamily": "fontawesome, hack",
+	"terminal.integrated.fontSize": 11
 }
