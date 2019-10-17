@@ -6,23 +6,32 @@ print("\x1bc")
 # 00-70 = F
 
 while True:
-    print("\nDigite los valores: ")
-    a = int(input("1st parcial: "))
-    b = int(input("2nd parcial: "))
-    # c = int(input("3rd parcial: "))
+  print("\nDigite los valores: ")
+  a = int(input("1st parcial: "))
+  b = int(input("2nd parcial: "))
+  c = int(input("3rd parcial: "))
 
-    val = (a+b)
-    # val = (a+b+c)
-    if (90 <= val):
-        print("A")
-    elif(val <= 89):
-        print("B")
-    # elif(val >= 79):
-    #     print("C")
-    # elif(val <= 70):
-    #     print("D")
-    # elif(val <= 70):
-    #     print("F")
+  val = (a+b+c)
+  if (val >= 90):
+      print("A")
+  elif(val >= 80):
+      print("B")
+  elif(val >= 75):
+      print("C")
+  elif(val >= 70):
+      print("D")
+  elif(val < 70):
+      print("F")
+  else:
+    print("sorry ty again")
+
+
+
+
+
+
+
+
 
 ###################################################################
 
