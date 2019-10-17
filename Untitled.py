@@ -1,6 +1,13 @@
 print("\x1bc")
 
-numero = 0
-while numero < 7:
-    numero = numero + 1
-    print("el Numero Ha sido repetido 7 veces")
+while True:
+    print("\ninter value: ")
+    a = int(input("val1: "))
+    b = int(input("val2: "))
+    # c=int(input("val3: "))
+
+    val = (a+b)
+    if (5 <= val):
+        print(val)
+    else:
+        print("no no")
