@@ -1,6 +1,5 @@
 {
 	"python.linting.enabled": false,
 	"python.formatting.provider": "autopep8",
-	"terminal.integrated.fontFamily": "monospace",
-	"terminal.integrated.fontSize": 11
+	"terminal.integrated.fontSize": 12
 }

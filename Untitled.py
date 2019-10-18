@@ -7,7 +7,11 @@ while True:
     # c=int(input("val3: "))
 
     val = (a+b)
-    if (5 <= val):
+    if (val >= 90):
         print(val)
+    elif(val <= 80):
+        print("B")
+    elif(val <= 79):
+        print("C")
     else:
         print("no no")
