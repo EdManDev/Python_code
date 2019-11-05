@@ -14,15 +14,15 @@ while True:
 
     val = (a+b+c+d)
     if (val >= 90):
-        print("A")
+        print("\n Nota Final: A")
     elif(val >= 80):
-        print("B")
+        print("\n Nota Final: B")
     elif(val >= 75):
-        print("C")
+        print("\n Nota Final: C")
     elif(val >= 70):
-        print("D")
+        print("\n Nota Final: D")
     elif(val < 70):
-        print("F")
+        print("\n Nota Final: F")
     else:
         print("sorry ty again")
 
