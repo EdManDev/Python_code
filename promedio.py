@@ -7,11 +7,12 @@ print("\x1bc")
 
 while True:
     print("\nDigite los valores: ")
-    a = int(input("1st parcial: "))
-    b = int(input("2nd parcial: "))
-    c = int(input("3rd parcial: "))
+    a = int(input("Assistencia: "))
+    b = int(input("1st parcial: "))
+    c = int(input("Practica: "))
+    d = int(input("Examen final: "))
 
-    val = (a+b+c)
+    val = (a+b+c+d)
     if (val >= 90):
         print("A")
     elif(val >= 80):
