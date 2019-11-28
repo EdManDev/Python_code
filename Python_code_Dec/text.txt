@@ -1,0 +1,19 @@
+ciclo FOR este cyclo permite la repetition de operaciones un numero de veces especifico 
+a diferencia del ciclon while el contador este ciclo lo maneja de forma interna 
+lo indica que la operacion se transimta de forma transparente a los usuario 
+
+
+2-) Estructura de datos 
+
+tuplas: son estructuras de datos unidimencionales las cuales puede almacenar valores de difernetes clases 
+y sobre todo las tuplas son inmutables como durante la ejecutio de un programa los  valores pertenecientes a una tuplas mo se puede cambiar 
+
+para obtener el valor especifico de un elemento de una tupla se debe colocar el nombre de la tupla y la posicion deseada del valor ==ejemplo
+
+ejercicio 
+
+en una tupla de 5 elementos multiplicar X2 los elementos pares 
+
+
+------------------------------
+investigation 
