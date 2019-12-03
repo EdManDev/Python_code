@@ -1,16 +1,13 @@
 print("\033c")
 
 
-print("la Raice ((a+b)(a*b)2)")
-a = 4
-b = 2
-c = a + 2
+print("dos numero y su division, error si el divisor es igual a cero")
 
-x = a + b
-y = a * b
-z = x * y * 2
+num_1 = int(input("digite num_1: "))
+num_2 = int(input("digite num_2: "))
+res = num_1//num_2
 
-sqrt = z ** 0.5
-
-print("El resultado del equacion es: ", int(sqrt))
-
+if(res > 1):
+    print("resultado es: ", res)
+else:
+    print("error!")

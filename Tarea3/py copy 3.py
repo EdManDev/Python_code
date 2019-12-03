@@ -1,16 +1,8 @@
 print("\033c")
-print("la  ecuacion de A+B-C Raice 100 * 100")
-a = 2
-b = 3
-c = 5
+print("al usuario su edad y muestre por pantalla si es mayor de edad o no")
+edad = int(input("su edad?: "))
 
-x = 16
-y = x * x
-
-sqrt = y ** 0.5
-
-print("Recuerda Pue la Raiz de : ", x, " es: ", int(sqrt))
-
-z = a + b - c + sqrt
-
-print("Eso es el Resultado de la Equacion: ", z)
+if(edad > 1):
+    print("mayor de edad: ")
+else:
+    print("menor de edad: ")

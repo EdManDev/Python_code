@@ -1,12 +1,6 @@
 print("\033c")
-print("DETREMINE SI ES PAR O EN CONTRARIO IMPARES Y DIVIDE POR 3")
-
-while True:
-    num = int(input("Ingrese Un Valor: "))
-
-    if (num % 2) == 0:
-        print("El valor: ", num, " es pares.")
-    else:
-        num = num // 3
-        print("El valor: ", num, " es impares (y ya divide por 3 ).")
-
+print("lea 2 numero y Escriba El Mayor de los dos: ")
+num_1 = int(input("#1 "))
+num_2 = int(input("#2 "))
+res = num_1+num_2
+print("el resultado  es: ", res)

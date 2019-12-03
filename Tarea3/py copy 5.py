@@ -1,18 +1,16 @@
 print("\033c")
-print("\nEste programa va imprimir letra Vocale , semivocales o,consonante")
+print("Tributar un determinado de impuesto.")
 
 while True:
-    caracter = input("\n\n entrar  un caracter: ")
+    edad = int(input("\n\ningrese la edad: "))
+    mensual = int(input("cuanto tienes: "))
+    precio = 50000
+    mayor_edad = 16
 
-    if (
-        caracter == "a"
-        or caracter == "e"
-        or caracter == "i"
-        or caracter == "o"
-        or caracter == "u"
-    ):
-        print(caracter, "es un Vocale")
-    elif caracter == "y":
-        print(caracter, "es un semivocales")
+    if(edad > mayor_edad):
+        if(mensual >= precio):
+            print("ahora todo es correcto para tributar ✅")
+        else:
+            print("tu dinero no es suficiente❗", mensual)
     else:
-        print(caracter, "es un consonate")
+        print(edad, "debe tener mayor que 16 de edad ❌")

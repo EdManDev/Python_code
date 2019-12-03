@@ -1,14 +1,9 @@
 print("\033c")
-print("Una tienda que vende pantalones")
+print("determine si un modulo de un num es < que 15")
+num_1 = int(input("#1"))
+valor = 15
+var_1 = valor % var
 
-pantalones = int(input("ingrese el numero de de cantidad de pantalones: "))
 
-if pantalones == 5:
-    print("\nEsto es el precio Normal\n")
-elif pantalones == 12:
-    print("es el precio de descuento de 15%\n")
-
-elif pantalones > 12:
-    print("es el precio de descuento de 30%\n")
-# else:
-#     print("\nNigun precio han sido selectionado\n")
+if(num_1 <= var_1):
+    print("")

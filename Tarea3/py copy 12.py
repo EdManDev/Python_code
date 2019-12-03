@@ -1,5 +1,12 @@
 print("\033c")
-print("Lea 3 numeros enteros y determine el numero intermedio")
+print("determine si int es impar ")
 
-list = [1, 2, 3]
-print(list)
+while True:
+    num_1 = int(input("#1: "))
+    num = 2
+
+    if(num_1 % num):
+        res = num_1 % num
+        print("numero es pares y el resultado es: ", res)
+    else:
+        print("no. es impares!")
