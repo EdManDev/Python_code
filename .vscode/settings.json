@@ -1,5 +1,5 @@
 {
-	"python.linting.enabled": false,
-	"python.formatting.provider": "autopep8",
-	"terminal.integrated.fontSize": 14
+  "python.linting.enabled": false,
+  "python.formatting.provider": "autopep4",
+  "terminal.integrated.fontSize": 14
 }

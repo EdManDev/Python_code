@@ -1,6 +1,6 @@
+import statistics
 print("\033c")
 print(" ")
-import statistics
 
 
 num = int(input("ingrese un numero entero: "))
