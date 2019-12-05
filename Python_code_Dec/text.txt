@@ -15,5 +15,54 @@ ejercicio
 en una tupla de 5 elementos multiplicar X2 los elementos pares 
 
 
-------------------------------
+--------------------------------------------------------------------
 investigation 
+
+
+
+hoy: propiedades
+-apend
+-insert
+-invers
+-index
+-revers
+-remove
+
+--------------------------------------------------------------------
+APPEND: esta propiedad permite anadir valore o elemetos al final d cada lista
+ ejemplo:
+ >>> L=[8,38,"lunes"]
+ >>> L
+
+ INSERT: esta propiedad permite colocar un valor en una posicion especifica
+ ejemplo:
+
+>>> l=[8,38,"lunes"]
+>>> l
+[8, 38, 'lunes']
+>>> l.append(7)
+>>> l
+[8, 38, 'lunes', 7]
+>>> l[2]
+'lunes'
+>>> l.insert(3,"martes")
+>>> l
+[8, 38, 'lunes', 'martes', 7]
+>>> 
+KeyboardInterrupt
+>>> 
+
+
+
+EXO:
+utilizando el IDLE hacer un un menu de opciones   que permita agregar , insertar y buscar un registro en una position especifica
+esta busqueda debe realizarse en una lista 
+--------------------------------------------------------------------
+
+INDEX: Permite ubicar el indice de un elemento 
+permite contar la cantidad de elementos repetitivos que hay en una lista 
+
+--------------------------------------------------------------------
+INVERS: permite invertir el orden de los elementos de una lista
+--------------------------------------------------------------------
+REMOVE permite eliminar un elemento que esta localizado en una lista ejemplo: l.remove("lunes")
