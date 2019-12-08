@@ -1,6 +1,6 @@
 print("\033c")
-print(" maximo de 2 num de datos")
-val = int(input("engrese un valor: "))
-
-if(val >= 2):
-    print("los datos esta bien !")
+print(" maximo de 2 numeros dados son:")
+a=3
+b=2
+c=a+b
+print(c)

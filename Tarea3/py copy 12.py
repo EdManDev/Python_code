@@ -2,11 +2,10 @@ print("\033c")
 print("determine si int es impar ")
 
 while True:
-    num_1 = int(input("#1: "))
+    num_1 = int(input())
     num = 2
 
     if(num_1 % num):
-        res = num_1 % num
-        print("numero es pares y el resultado es: ", res)
+        print("no",num_1," es impares!")
     else:
-        print("no. es impares!")
+        print("si",num_1," es pares")
