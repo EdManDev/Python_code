@@ -2,5 +2,6 @@
   "python.linting.enabled": false,
   "python.formatting.provider": "autopep4",
   "terminal.integrated.fontSize": 14,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "C_Cpp.errorSquiggles": "Disabled"
 }
