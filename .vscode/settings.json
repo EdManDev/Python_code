@@ -3,5 +3,6 @@
   "python.formatting.provider": "autopep4",
   "terminal.integrated.fontSize": 14,
   "editor.tabSize": 2,
-  "C_Cpp.errorSquiggles": "Disabled"
+  "C_Cpp.errorSquiggles": "Disabled",
+  "python.pythonPath": "/Users/edman/opt/anaconda3/envs/tf/bin/python"
 }
