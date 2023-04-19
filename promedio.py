@@ -3,7 +3,7 @@ print("\x1bc")
 # 80-89 = B
 # 75-79 = C
 # 70-74 = D
-# 00-70 = F
+# 00-70 = F  OR  # 00-49 = F
 
 while True:
     print("\nDigite los valores: ")
